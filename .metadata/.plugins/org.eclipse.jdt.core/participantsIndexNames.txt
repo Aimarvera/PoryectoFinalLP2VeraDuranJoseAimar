@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\AIMAR\Downloads\LP2_ProyectoFinal\LP2\LP2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3705298183.index
+\RAproject\src\main\java
+C:\Users\AIMAR\Downloads\LP2_ProyectoFinal\LP2\LP2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2538477010.index
+\RAproject\src\main\java

@@ -1,0 +1,8 @@
+2023-06-26 22:07:19,136 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-27 09:58:20,693 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-27 20:21:02,774 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.7+7
+2023-06-27 20:21:02,809 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-06-27 20:21:02,847 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@73554acf{/wse,null,AVAILABLE}
+2023-06-27 20:21:02,876 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@b42c012{HTTP/1.1, (http/1.1)}{0.0.0.0:61330}
+2023-06-27 20:21:02,880 [main] INFO  org.eclipse.jetty.server.Server - Started Server@5bb4c490{STARTING}[10.0.13,sto=0] @37428862ms
+2024-10-19 00:18:53,953 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
